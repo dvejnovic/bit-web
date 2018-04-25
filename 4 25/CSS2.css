@@ -1,0 +1,52 @@
+body {
+    font-size: 150%;
+}
+
+#pasus1 {
+  letter-spacing: 5px;
+  text-align: left;
+}
+
+#pasus2 {
+    line-height: 200%;
+    text-align: right;
+}
+
+#pasus3 {
+    text-align: center;
+}
+
+#pasus4 {
+    text-align: justify;
+}
+
+.p1i2 {
+text-decoration: underline;
+color: goldenrod;
+text-transform: capitalize;
+}
+
+span {
+    vertical-align: top;
+}
+
+ul {
+    color: yellowgreen;
+    text-shadow: 37px 37px 2px rgba(70, 169, 150, 1);
+}
+
+a:link{
+    color:red;
+}
+
+a:hover{
+    color:green;
+}
+
+a:visited{
+    color:black;
+}
+
+a:active{
+    color:blue;
+}

@@ -1,0 +1,60 @@
+@font-face {
+    font-family: Gamja;
+    src: url('fonts/GamjaFlower-Regular.ttf');
+}
+@font-face {
+    font-family: Gaegu;
+    src: url("fonts/Gaegu/Gaegu-Regular.ttf");
+}
+
+body {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#prvi{
+    font-family: 'Cute Font', cursive;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+#drugi{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    
+    text-transform: lowercase
+}
+
+#treci{
+   font-family: Gamja;
+   text-decoration: underline;
+}
+
+#cetvrti{
+    font-family: Gaegu;
+    text-decoration: underline;
+}
+
+#q1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#q3 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#q2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+q {
+    color:red;
+}
+blockquote{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: capitalize;
+}
+
+span{
+    font-weight: lighter;
+    font-style: italic;
+}
